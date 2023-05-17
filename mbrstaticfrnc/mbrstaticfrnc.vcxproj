@@ -24,6 +24,7 @@
     <ProjectGuid>{12409be8-47bc-474b-ad5c-b05c97c8c780}</ProjectGuid>
     <RootNamespace>mbrstaticfrnc</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>mbrstaticfunc</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
