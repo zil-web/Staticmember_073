@@ -19,8 +19,8 @@ public:
 
 int main()
 {
-	bukunya.setJudul("matematika");
-	cout << bukunya.getJudul();
+	//bukunya.setJudul("matematika");
+	//cout << bukunya.getJudul();
 	cout << bukunya.setJudul("matematika").getJudul(); //chain function calls
 	return 0;
 }
